@@ -5,3 +5,15 @@ article > div {
     margin-bottom: 50px;
     padding-bottom: 30px;
 }
+
+fieldset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset > label{
+    display: inline-flex;
+
+    width: 15%;
+}
