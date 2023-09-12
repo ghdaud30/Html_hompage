@@ -9,3 +9,4 @@
 > 09.05 : <a href="./05/index.html">Temperature Ploblem</a>
 > 09.05 : <a href="./06/index.html">String Handle</a>
 > 09.05 : <a href="./07/index.html">Bomb Game</a>
+> 09.12 : <a href="./09/index.html">HeatWaveShelter Information</a>
