@@ -10,3 +10,10 @@
 > 09.05 : <a href="./06/index.html">String Handle</a>
 > 09.05 : <a href="./07/index.html">Bomb Game</a>
 > 09.12 : <a href="./09/index.html">HeatWaveShelter Information</a>
+
+## 파이어베이스 업로드 완료
+> npm -install -g firebase-tools
+> firebase login
+> firebase init
+> firebase init hosting
+> firesbase deploy
